@@ -4,7 +4,8 @@
   "description": "Money In Sight API Backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "mocha --exit"
   },
   "author": "Nick Dean",
   "license": "ISC",
