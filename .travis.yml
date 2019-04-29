@@ -5,6 +5,9 @@ cache:
     - node_modules
 services:
   - mongodb
+env:
+  global:
+    - NODE_ENV=production
 deploy:
   provider: heroku
   api_key:
