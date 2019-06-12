@@ -4,6 +4,6 @@ module.exports = {
   googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
   mongoURI: process.env.MONGO_URI,
   cookieKey: process.env.COOKIE_KEY,
-  apiURL: 'money-in-sight-api.herokuapp.com',
-  clientURL: 'money-in-sight.herokuapp.com',
+  apiURL: 'https://money-in-sight-api.herokuapp.com',
+  clientURL: 'https://money-in-sight.herokuapp.com',
 };
