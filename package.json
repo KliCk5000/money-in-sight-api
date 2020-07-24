@@ -14,14 +14,15 @@
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.9.7",
+    "mongoose": "^5.9.25",
     "morgan": "^1.10.0",
+    "npm-check-updates": "^7.0.2",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "mocha": "^7.1.1"
+    "mocha": "^8.0.1"
   }
 }
